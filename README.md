@@ -27,3 +27,40 @@ Esta es mi carpeta de trabajos del curso de **"Programación Backend"
 			|Git commid|Manda los cambios guardados en el stagging área al local report|
 
 **1ra Hackaton**
+
+ - Repaso de lo aprendido en la semana 1 sesión 3.
+ - Enlace del local repo con el remote repo.
+ - Primera tarea del Hackaton.
+
+# SOBRE EL APRENDIZAJE
+## Encabezados:
+
+Los encabezados se designan comenzando con el símbolo "#", y los respectivos subniveles se asignan con un numero igual de "#"; por ejemplo para el primer subnivel se inicia con "##", para el segundo subnivel "###".
+
+## Edición del texto:
+
+Para poner texto en negrita, se encierra el texto entre **, para poner en cursiva, se coloca un *.
+
+**Nombre:** *Jorge Quispe*
+
+## Listas:
+### Ejemplo de Lista numerada:
+
+ 1. Azul.
+ 2. Amarillo.
+ 3. Verde.
+ 4. Rojo.
+
+### Ejemplo de Lista con viñetas:
+
+ - Azul.
+ - Amarillo.
+ - Verde.
+ - Rojo.
+
+## Creación de enlaces:
+
+Ejemplo de hipervínculo con Frase.
+[Este hipervínculo redirige a www.google.com.pe](https://stackedit.io/app#)
+Ejemplo de hipervínculo con dirección de la página.
+[https://www.google.com.pe/](https://www.google.com.pe/)
