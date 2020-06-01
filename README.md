@@ -70,5 +70,9 @@ Ejemplo de hipervínculo con dirección de la página.
 
 ## Inserción de imagenes:
 **Insertamos una imagen, externamente.**
-![enter image description here](https://imagenpng.com/wp-content/uploads/2015/09/Hermanos_Mario_MLSS.png)
+
+![Imagen de Hermanos Mario Bross](https://imagenpng.com/wp-content/uploads/2015/09/Hermanos_Mario_MLSS.png)
+
 **Insertaremos una imagen, que se encuentra en la remote repository del github.**
+
+![Imagen de Homero Simpson](https://github.com/JWilian/PACHAQUTEC-MAYO2020/blob/master/Semana1Sesion2/Homero.png)
