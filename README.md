@@ -69,11 +69,31 @@ Ejemplo de hipervínculo con dirección de la página.
 [https://www.google.com.pe/](https://www.google.com.pe/)
 
 ## Inserción de imagenes:
-**Insertamos una imagen, externamente.**
-
-![Imagen de Stitch][logo]
-[logo]:https://i.pinimg.com/564x/a0/ea/11/a0ea11b96fed4efc9b5c81d128ba5298.jpg
 
 **Insertaremos una imagen, que se encuentra en la remote repository del github.**
 
 ![Imagen de Homero Simpson](https://github.com/JWilian/PACHAQUTEC-MAYO2020/blob/master/Semana1Sesion2/Homero.png)
+
+## Inserción de códigos, sin que se interpreten como tal:
+
+Para ello, el código a escribir, se encierra entre "<" y ">".
+Ejemplo:
+
+<public String getIdGrupo () { return idGrupo; }  
+public float capacidadDelGrupo () { //Este método usa objetos de otra clase e invoca métodos de otra clase  
+if (numeroDepositosGrupo == 2) { return (deposito1.valorCapacidad() + deposito2.valorCapacidad() );  
+} else { return (deposito1.valorCapacidad() + deposito2.valorCapacidad()+ deposito3.valorCapacidad() ); }  
+//Si el grupo se ha creado con un número de depósitos distinto de 2 o 3 saltará un error en tiempo de ejecución  
+} //Cierre del método  
+} //Cierre de la clase>
+
+## INSERCIÓN DE TABLAS:
+
+|Valores| Marca de Clase |Frec. Absoluta|Frec. Acumulada|
+|--|--|--|--|
+|[0-2]| 1 |	2 | 2 |
+|[3-5]|	3 |	3 | 5 |
+|[6-8]|	5 |	1 | 6 |
+||8-10|	7 |	4 | 10 |
+
+==== FIN ====
