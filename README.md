@@ -71,7 +71,7 @@ Ejemplo de hipervínculo con dirección de la página.
 ## Inserción de imagenes:
 **Insertamos una imagen, externamente.**
 
-![Imagen de Hermanos Mario Bross](https://imagenpng.com/wp-content/uploads/2015/09/Hermanos_Mario_MLSS.png)
+![Imagen de Stitch](https://www.pinterest.com.mx/pin/625226360743117186/)
 
 **Insertaremos una imagen, que se encuentra en la remote repository del github.**
 
