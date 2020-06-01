@@ -72,7 +72,7 @@ Ejemplo de hipervínculo con dirección de la página.
 **Insertamos una imagen, externamente.**
 
 ![Imagen de Stitch][logo]
-[logo]:(https://i.pinimg.com/564x/a0/ea/11/a0ea11b96fed4efc9b5c81d128ba5298.jpg)
+[logo]:https://i.pinimg.com/564x/a0/ea/11/a0ea11b96fed4efc9b5c81d128ba5298.jpg
 
 **Insertaremos una imagen, que se encuentra en la remote repository del github.**
 
