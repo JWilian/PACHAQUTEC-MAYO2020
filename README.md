@@ -61,6 +61,14 @@ Para poner texto en negrita, se encierra el texto entre **, para poner en cursiv
 ## Creación de enlaces:
 
 Ejemplo de hipervínculo con Frase.
+
 [Este hipervínculo redirige a www.google.com.pe](https://stackedit.io/app#)
+
 Ejemplo de hipervínculo con dirección de la página.
+
 [https://www.google.com.pe/](https://www.google.com.pe/)
+
+## Inserción de imagenes:
+**Insertamos una imagen, externamente.**
+![enter image description here](https://imagenpng.com/wp-content/uploads/2015/09/Hermanos_Mario_MLSS.png)
+**Insertaremos una imagen, que se encuentra en la remote repository del github.**
